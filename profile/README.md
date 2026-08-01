@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img src="profile/banner.png" alt="Ambedkar Reading Circle"/>
+    <img src="banner.png" alt="Ambedkar Reading Circle"/>
   </picture>
 </div>
 
