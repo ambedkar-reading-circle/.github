@@ -4,7 +4,7 @@
   </picture>
 </div>
 
-We are an open community of readers, educators, researchers, designers, developers, facilitators, and volunteers building projects inspired by the ideas of Dr. B. R. Ambedkar. We believe knowledge should be accessible, collaborative, and open.
+While Ambedkar Reading Circle occupies parks and public spaces with books, conversations, and Babasaheb's iconographies, this GitHub organization occupies the digital commons—building open tools and resources that make anti-caste knowledge more accessible, visible, and reusable.
 
 ## Current Projects
 
