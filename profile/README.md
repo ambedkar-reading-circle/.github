@@ -4,7 +4,7 @@
   </picture>
 </div>
 
-While Ambedkar Reading Circle occupies parks and public spaces with books, conversations, and Babasaheb's iconographies, this GitHub organization occupies the digital commons—building open tools and resources that make anti-caste knowledge more accessible, visible, and reusable.
+While Ambedkar Reading Circle occupies parks and public spaces with books, conversations, and Babasaheb's iconographies, this GitHub presence occupies the open-source engineering commons, building open tools and resources that make anti-caste knowledge more accessible, visible, and reusable.
 
 ## Current Projects
 
@@ -15,4 +15,9 @@ While Ambedkar Reading Circle occupies parks and public spaces with books, conve
 
 ## Contribute
 
-We build in the open. Find our projects on [GitHub](https://github.com/ambedkar-reading-circle) and contribute via Issues and Pull Requests.
+We build in the open. These projects are still taking shape — and as they grow, we will be inviting contributions. Watch the repositories, open Issues to share ideas or flag gaps, and send Pull Requests when you are ready to build with us.
+
+## Join Us
+
+- 📸 **Instagram** — [@arc.bangalore](https://www.instagram.com/arc.bangalore/)
+- 💬 **WhatsApp Community** — [Join the group](https://chat.whatsapp.com/DsZYQiVREdC1f7R0FmT1LJ)
