@@ -10,8 +10,8 @@ While Ambedkar Reading Circle occupies parks and public spaces with books, conve
 
 | Project | Description | Website | Repository |
 | --- | --- | --- | --- |
-| 🌐 **ARC Bengaluru** | Official website for the Bengaluru chapter | Coming Soon | [repo](https://github.com/ambedkar-reading-circle/arc-bengaluru) |
-| 🎭 **Dramas of Discrimination** | Interactive workshop toolkit based on Theatre of the Oppressed | Coming Soon | [repo](https://github.com/ambedkar-reading-circle/dramas-of-discrimination) |
+| 🌐 **ARC Community Website** | Online home of the Ambedkar Reading Circle community | [Visit](https://ambedkar-reading-circle.github.io/arc-community-website/) | [repo](https://github.com/ambedkar-reading-circle/arc-community-website) |
+| 🎭 **Dramas of Discrimination** | An open-source web app where communities rehearse ethical responses to caste-based discrimination and author their own manifestos of inclusion | Coming Soon | [repo](https://github.com/ambedkar-reading-circle/dramas-of-discrimination) |
 
 ## Contribute
 
